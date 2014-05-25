@@ -16,11 +16,8 @@ body {
 	margin:0;
 }
 
-img {
-	border:none;
-}
-
-a img {
+img ,
+a img{
 	border:none;
 }
 
